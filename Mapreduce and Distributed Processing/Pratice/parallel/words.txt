@@ -1,0 +1,24 @@
+Sur mes cahiers d'écolier Sur mon pupitre et les arbres Sur le sable de neige J'écris ton nom
+Sur les pages lues Sur toutes les pages blanches Pierre sang papier ou cendre J'écris ton nom
+Sur les images dorées Sur les armes des guerriers Sur la couronne des rois J'écris ton nom
+
+La géographie ne peut ignorer ces nouveaux paradigmes que sont le Big Data et le Cloud
+Computing qui bouleversent littéralement les conceptions classiques aujourd’hui dépassées
+que nous avons de « l’informatique » et « l’information géographique ». La géographie,
+même si ce n’est pas encore visible pour tous les géographes, est aussi embarquée dans ce
+mouvement inexorable qui représente l’enjeu majeur du monde contemporain de
+l’information : comment, d’une part, stocker des données de plus en plus massives et
+diversifiées qui sont actualisées de plus en plus rapidement et, d’autre part, comment
+identifier ces données et y trouver un sens plus rapidement qu’elles ne s’accumulent ?
+Du point de vue des données, de nombreux verrous offrent actuellement des sujets d’études
+passionnant en prise directe avec les problématiques géomatiques. À titre d’exemple, le
+stockage de l’ensemble des données qu’il est possible de récolter en flux quasi continu
+nécessite l’utilisation de formalismes spécifiques que l’on regroupe souvent sous
+l'appellation NoSQL. La découverte et l’acquisition de ces données est également un enjeu
+majeur qu’il est important de reconsidérer à l’heure des données connectées. Citons, par
+exemple, les données sémantiques qu’il est possible de récolter dynamiquement à travers
+une description dans un langage proche du langage naturel (gestion des synonymes, du
+multilingue, taxonomie des termes, ...) ainsi que les données ouvertes mise à disposition par
+un nombre d’acteurs en perpétuelle croissance (NASA EOSDIS, applying semantic web
+technologies to earth science ; ESA, Easy Semantic Approximation with Explicit Semantic
+Analysis ; CNES, activities on semantic search ; INSEE, espace RDF 1 …). Le volume, la diversité
